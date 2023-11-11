@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VaguDev
 - 👀 I’m interested in FrontEnd
-- 🌱 I’m currently learning VueJS
+- 🌱 I’m currently working with Angular
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 vagudev@gmail.com 
 
